@@ -232,10 +232,18 @@ Tests include SHA-256 and SHA-512 known-answer vectors, a PBKDF2-HMAC-SHA256
 known-answer vector, RFC 4231 HMAC-SHA256 test case 1, file hashing,
 checksum comparison, and invalid-input handling.
 
+
+
 ## Screenshots
 
-Add screenshots of your own local runs in a `screenshots/` directory. Suggested
-captures:
+### Execution Output 1
+![Execution Output 1](<Screenshot 2026-11-17 110744.png>)
+
+### Execution Output 2
+![Execution Output 2](<Screenshot 2026-11-17 110802.png>)
+
+### Execution Output 3
+![Execution Output 3](<Screenshot 2026-11-17 110948.png>)
 
 1. SHA-256 string hashing.
 2. SHA-512 file hashing.
