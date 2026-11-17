@@ -76,7 +76,7 @@ cryptographic-hash-key-derivation/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cryptographic-hash-key-derivation.git
+git clone https://github.com/sandeshhalabhavi12-bot/cryptographic-hash-key-derivation.git
 cd cryptographic-hash-key-derivation
 ```
 
