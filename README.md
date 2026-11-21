@@ -245,6 +245,9 @@ checksum comparison, and invalid-input handling.
 ### Execution Output 3
 ![Execution Output 3](<Screenshot 2026-11-17 110948.png>)
 
+### Execution of all 
+![Execution Output 3](<1 output.png>)
+
 1. SHA-256 string hashing.
 2. SHA-512 file hashing.
 3. PBKDF2 key derivation (use a disposable test password).
